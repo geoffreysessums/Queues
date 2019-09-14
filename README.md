@@ -1,25 +1,36 @@
 # Queues
-Written in C, Queues contains a simple implementation of a ring-buffered queue array.
-#### Description:
-## Installation:
-Clone the repository wherever you like (e.g. ~/Projects/Queues):
-```bash
-git clone https://github.com/gsessums/Queues.git
-```
+
+Geoffrey Sessums  
+Personal Project
+Language: C  
+
+## Description
+
+Queues contains a simple implementation of a ring-buffered queue array.
+
+## What I learned
+
+* How to implement a ring-buffered queue array
+
+## Installation
+
+Clone the repository wherever you like (e.g. ~/Projects/Queues):  
+`git clone https://github.com/gsessums/Queues.git`
+
 ## Usage
-Use the included Makefile:
-```bash
-make
-```
+
+Use the included Makefile:  
+`make`  
+
 To execute:
-```
-./queuearray
-```
+`./queuearray`  
 
 ## Credits
-Author: [Geoffrey Sessums](http://www.geoffreysessums.com)
+
+Author: Geoffrey Sessums
 
 ## License
+
 MIT License
 
 Copyright (c) 2018 Geoffrey Sessums
