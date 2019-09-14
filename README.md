@@ -22,7 +22,7 @@ Clone the repository wherever you like (e.g. ~/Projects/Queues):
 Use the included Makefile:  
 `make`  
 
-To execute:
+To execute:  
 `./queuearray`  
 
 ## Credits
